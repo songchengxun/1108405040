@@ -1,0 +1,7 @@
+git init
+git add .
+git config --global user.email "輸入你的email"
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://你的上傳網址.git
+git push -u origin main
